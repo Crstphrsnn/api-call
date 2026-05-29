@@ -10,7 +10,7 @@ Postman API Testing Demonstration – Laravel Student API
 This project demonstrates how to test a Laravel REST API using Postman. The API manages student records and supports common HTTP methods: GET, POST, PUT, PATCH, and DELETE.
 
 The API reference is based on the GitHub repository:
-https://github.com/Crstphrsnn/api-call
+https://github.com/cgpbferrer-psu-tech/api-call
 
 ## API Resource
 Student
