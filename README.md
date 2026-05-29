@@ -35,7 +35,7 @@ http://127.0.0.1:8000/api/students
 ### 1. Download the Reference Project
 Open the GitHub repository and download the project:
 
-https://github.com/Crstphrsnn/api/students
+https://github.com/cgpbferrer-psu-tech/api-call
 
 
 Then open the project folder in VSCode.
